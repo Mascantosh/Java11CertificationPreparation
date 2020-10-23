@@ -44,3 +44,9 @@
 * Secure resource access including filesystems, manage policies and execute privileged code
 ##Localization
 * Implement Localization using Locale, resource bundles, and Java APIs to parse and format messages, dates, and numbers
+
+# Topics removed from 1Z0-819
+* Characteristics of Java (platform independence, backwards compatibility, etc)
+* Running a basic program from the command line (except modules)
+* Java Assertions
+* JDBC CallableStatement
